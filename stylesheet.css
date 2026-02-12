@@ -6,4 +6,9 @@ h1 {
 p {
   /* Gantikan warna ke #0000ff */
   color: #0000ff;
+
+}
+
+li {
+  list-style: none;
 }
